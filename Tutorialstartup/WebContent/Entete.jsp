@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 <meta http-equiv="content-type"
 	content="text/html; charset=windows-1252" />
+
 <link rel="stylesheet" type="text/css" href="style/style.css"
 	title="style" />
 </head>
